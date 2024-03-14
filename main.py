@@ -1,6 +1,6 @@
 import RPi.GPIO as GPIO
 import time
-from cvcam_func import Eyecatch
+from cam import Eyecatch
 import asyncio
 import threading
 import wave
